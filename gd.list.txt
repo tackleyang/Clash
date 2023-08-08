@@ -1,5 +1,0 @@
-#gd代理列表
-
-
-#gd,代理列表
-DOMAIN,www.googleapis.com
