@@ -1,5 +1,9 @@
 #gd代理列表
 
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN,www.googleapis.com
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
